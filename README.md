@@ -2,12 +2,12 @@
 Data Science Course
 
 
-The purpose is to create a tidy data set out of wearable computing data, available:
+The purpose is to create a tidy data set out of wearable computing data.
 
 ## The data source
 
-* Original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-* Original description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+Original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Original description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
  
 
 ## Files included are
