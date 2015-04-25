@@ -5,17 +5,20 @@ date: "April 25, 2015"
 output: html_document
 ---
 
-This code book describes variables, data, and transformations that where performed to clean up the following dataset: Human Activity Recognition Using Smartphones Dataset (Version 1.0).  It contains accelerometer measurements from Samsung Galaxy S smartphones while subjects performed various activities. For the particulars of the measurements recorded and their derivation, refer to the documentation of the dataset location in [features_info.txt](UCI%20HAR%20Dataset/features_info.txt)
+This code book describes variables, data, and transformations that where performed to clean up the following dataset: Human Activity Recognition Using Smartphones Dataset (Version 1.0).  It contains accelerometer measurements from Samsung Galaxy S smartphones while subjects performed various activities.
 
 
-The following variables are loaded from the CI HAR Dataset
+The following files are used from the CI HAR Dataset
 
+* activity_labels
+* features
+* subject_test
+* subject_train
 * X_train
 * X_test
-* features
 * y_train
 * y_test
-* activity_labels
+
 
 
 The following names are used: Activity, Subject and Features, as part of descriptive variable names for data in data frame.
