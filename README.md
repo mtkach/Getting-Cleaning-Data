@@ -7,6 +7,7 @@ The purpose is to create a tidy data set out of wearable computing data.
 ## The data source
 
 Original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 Original description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
  
 
@@ -16,7 +17,10 @@ Original description of the dataset: http://archive.ics.uci.edu/ml/datasets/Huma
 * run_analysis.R - R code for the analysis
 
 ## run_analysis.R goals
+
 Project instructions are as follows:
+
+
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 3. Uses descriptive activity names to name the activities in the data set
